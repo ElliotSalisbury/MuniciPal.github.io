@@ -3,4 +3,4 @@ title: PORTFOLIO
 description: 'Portfolio Section'
 ---
 
-You'll add here a general introduction of your portfolio page.
+Below is a short selection of my side projects, hackdays, and work.

@@ -7,7 +7,7 @@ work: [python, computer vision]
 techs: [python, computer vision]
 designs: []
 thumbnail: whale-hackday/whales.jpg
-projectUrl: https://www.sampleorganization.org
+projectUrl: http://www.mlsquamish.ca/
 ---
 
 I organised and took part in a [MLSquamish](http://www.mlsquamish.ca/) Hackday.

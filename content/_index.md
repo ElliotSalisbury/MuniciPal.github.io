@@ -1,10 +1,8 @@
 ---
 title: HOME
-description: Welcome to this sample project
-images: ["/images/sample.jpg"]
+description: Elliot Salisbury's Portfolio
+images: ["/squamish-river/river.jpeg"]
 ---
-
-Hey,
 
 I'm Elliot Salisbury, a Full Stack Data Scientist.
 

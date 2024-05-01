@@ -3,8 +3,8 @@ title: Whale Tracking Hackday
 description: This is the description of our sample project
 date: "2024-04-30T12:00:00-07:00"
 jobDate: 2024
-work: [python, computer vision]
-techs: [python, computer vision]
+work: [python, drone, computer vision]
+techs: [python, drone, computer vision, deep learning]
 designs: []
 thumbnail: whale-hackday/whales.jpg
 projectUrl: http://www.mlsquamish.ca/

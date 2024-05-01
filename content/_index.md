@@ -14,4 +14,4 @@ that have large impacts on businesses, society, and the climate. In many of thes
 projects from their initial concept, through research & development, and deployment into production, and then
 handing them over to the software engineering team for ongoing maintenance.
 
-[Learn More](/about "Learn More")
+[Learn More](/resume "Learn More")

@@ -14,4 +14,4 @@ handing them over to the software engineering team for ongoing maintenance.
 
 [Check out my Resume, ](/resume "Learn More")
 
-[Or my Portfolio.](/portfolio "Portfolio")
+[Or my Full Portfolio.](/portfolio "Portfolio")

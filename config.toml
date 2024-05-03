@@ -14,8 +14,8 @@ pygmentsCodeFences=true
   sub = "Full Stack Data Scientist"
 
 [params.main]
-  latestPublishHeader = "My Latest Projects"
-  latestPublishCount = 3
+  latestPublishHeader = "Latest Portfolio:"
+  latestPublishCount = 10
 
 [taxonomies]
   design = "designs"

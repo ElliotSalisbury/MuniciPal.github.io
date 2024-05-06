@@ -1,7 +1,7 @@
 ---
 title: Whale Tracking Hackday
 description: This is the description of our sample project
-date: "2024-04-30T12:00:00-07:00"
+date: "2024-06-01T12:00:00-07:00"
 jobDate: 2024
 work: [python, drone, computer vision]
 techs: [python, drone, computer vision, deep learning]
@@ -16,4 +16,4 @@ Traditionally, David has manually reviewed drone footage to select the most suit
 
 Recognizing the labor-intensive nature of this process, the machine learning community collaborated to explore the potential of computer vision to streamline aspects of Gaspard's work.
 
-Through the utilization of a YOLO model, the team endeavored to automate the identification of individual whales within the drone footage. Additionally, a proprietary algorithm was developed to identify optimal frames showcasing maximum visibility of the whales, thus enhancing the efficiency of data collection and analysis.
+The event is currently being planned, but intends to use a YOLO model to automate the extraction of individual whales within the drone footage. Additionally, there are plans to develop an algorithm to identify optimal frames showcasing maximum visibility of the whales. These results can then be exported to a photogrammetry software enhancing the efficiency of data collection and analysis.

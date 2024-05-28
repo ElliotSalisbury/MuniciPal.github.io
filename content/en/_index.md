@@ -10,7 +10,7 @@ header_logo: "images/logo.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
 header_headline: "Munici-Pal"
-header_subheadline: "AI powered meeting summaries"
+header_subheadline: "Cut through the noise with AI powered meeting summaries"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry
